@@ -1,1 +1,1 @@
-
+This directory can hold images or diagrams that are referenced from the documentation.
